@@ -15,9 +15,9 @@ Python >= 3
 
 ### Setup
 
-navigate to **streamlitStuff** directory
+navigate to **streamlitDeployment** directory
 ```
-cd .\streamlitStuff
+cd .\streamlitDeployment
 ```
 
 run the streamlit istance
